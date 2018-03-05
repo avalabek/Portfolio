@@ -314,7 +314,7 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #152B42;
   text-decoration: none;
 }
 
@@ -323,7 +323,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #152B42;
 }
 
 .btn-primary {
