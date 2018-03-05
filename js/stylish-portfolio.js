@@ -1,6 +1,9 @@
 (function($) {
   "use strict"; // Start of use strict
-
+  //Initializes carousel
+  $(".carousel").carousel({
+    interval: 2000
+  });
   // Closes the sidebar menu
   $(".menu-toggle").click(function(e) {
     e.preventDefault();
