@@ -123,7 +123,7 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #0F5257;
+  background: #104d66;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -206,7 +206,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #0F5257;
+  color: #104d66;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -308,7 +308,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #0F5257;
+  background-color: #104d66;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
@@ -319,7 +319,7 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: #0F5257;
+  color: #104d66;
 }
 
 a:hover, a:focus, a:active {
@@ -358,11 +358,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #0F5257 !important;
+  background-color: #104d66 !important;
 }
 
 .text-primary {
-  color: #0F5257 !important;
+  color: #104d66 !important;
 }
 
 .text-secondary {
